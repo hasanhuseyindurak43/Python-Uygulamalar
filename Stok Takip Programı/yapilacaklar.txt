@@ -1,0 +1,3 @@
+1-Mysql table oluşturma
+2-Giriş paneli oluşturma
+3-Kullanıcı paneli oluşturma
